@@ -1,0 +1,15 @@
+# Environmental variables
+.env
+
+# VSCode related files and directories
+.vscode/
+fyyur.code-workspace
+
+# Auto generated folder
+__pycache__/
+
+# SQL queries
+query.txt
+
+# Virtual env folder
+env/
